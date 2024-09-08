@@ -1,5 +1,5 @@
 "use client";
-import { BsLinkedin, BsGithub, BsInstagram, BsFacebook } from "react-icons/bs";
+import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { HiMailOpen } from "react-icons/hi";
 import { AiFillCloseCircle } from "react-icons/ai";
 import { SiEbox, SiLeetcode } from "react-icons/si";

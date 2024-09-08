@@ -1,6 +1,6 @@
 "use client";
 import { useForm, ValidationError } from "@formspree/react";
-import { useState, useEffect, ChangeEventHandler } from "react";
+import { useState, useEffect } from "react";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { BsLinkedin, BsGithub } from "react-icons/bs";
