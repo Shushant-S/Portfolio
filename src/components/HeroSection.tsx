@@ -78,7 +78,7 @@ const HeroSection = () => {
 
             {/* CV Drive Link */}
             <a
-              href="https://drive.google.com/file/d/1EapM7_vY6ba3St14Ny8tUqa9MDW_rj-x/view"
+              href="https://drive.google.com/file/d/1mUt_YkO_ebtwaHdT1MmAtjGlZROnaCY6/view"
               target="_blank"
               rel="noopener noreferrer"
               className="duration-400 w-full rounded-full border-2 border-white bg-transparent px-6 py-3 text-center font-medium text-lg text-white transition-all duration-500 ease-in-out hover:scale-[0.98] hover:bg-darkHover sm:w-fit md:mr-4"
